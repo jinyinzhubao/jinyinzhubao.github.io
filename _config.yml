@@ -1,8 +1,8 @@
 # Site settings
-title: BY Blog
+title: 金银珠宝的博客
 SEOTitle: 金银珠宝的博客 | jinyinzhubao Blog
 header-img: img/post-bg-desk.jpg
-email: kingjya@153.com
+email: kingjya@163.com
 description: "平易近人，乐道人善；慎终如始，修饰庄敬！"
 keyword: "jinyinzhubao, 金银珠宝, 金银珠宝的博客, jinyinzhubao blog , java, 后端, 架构, 计算广告, DDD, 领域驱动设计, 中间件"
 url: "http://jinyinzhubao.github.io"          # your host, for absolute URL
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     jinyinzhubao
 github_username:    jinyinzhubao
 #facebook_username:  baiying.qiu.7
-jianshu_username:   jinyinzhubao
+jianshu_username:   80b3d8e300fd
 #twitter_username:   qiubaiying
 
 
@@ -98,17 +98,20 @@ service-worker: true
 
 # Friends
 friends: [
+#    {
+#        title: "WY",
+#        href: "http://zhengwuyang.com"
+#    },
+#    {
+#        title: "Apple",
+#        href: "https://apple.com"
+#    },
+#    {
+#        title: "Apple Developer",
+#        href: "https://developer.apple.com/"
+#    }
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+        title: "简书·me",
+        href: "http://www.jianshu.com/u/80b3d8e300fd"
+    },
 ]
