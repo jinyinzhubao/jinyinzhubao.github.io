@@ -1,6 +1,6 @@
 
 
-![](https://https://raw.githubusercontent.com/jinyinzhubao/jinyinzhubao.github.io/master/img/others/金银珠宝的博客.png)
+![](https://raw.githubusercontent.com/jinyinzhubao/jinyinzhubao.github.io/master/img/others/%E9%87%91%E9%93%B6%E7%8F%A0%E5%AE%9D%E7%9A%84%E5%8D%9A%E5%AE%A2.png)
 
 
 博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
@@ -85,7 +85,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://https://raw.githubusercontent.com/jinyinzhubao/jinyinzhubao.github.io/master/img/others/金银珠宝的博客.png)
+![](https://raw.githubusercontent.com/jinyinzhubao/jinyinzhubao.github.io/master/img/others/%E9%87%91%E9%93%B6%E7%8F%A0%E5%AE%9D%E7%9A%84%E5%8D%9A%E5%AE%A2.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
